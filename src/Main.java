@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args)
     {
-        allTask();
+        allTask(); // сделанное дз
     }
 
     public static void allTask(){
